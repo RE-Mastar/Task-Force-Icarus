@@ -25,7 +25,7 @@ _genericGear = [
 
 	"rhs_weap_M136","rhs_weap_M136_hedp","rhs_weap_M136_hp","rhs_weap_fim92","rhs_weap_m72a7","rhs_weap_smaw_green","rhs_weap_smaw",
 
-	,"UK3CB_BAF_L16_Tripod","UK3CB_BAF_L111A1","UK3CB_BAF_L134A1","UK3CB_BAF_L16","UK3CB_BAF_M6", "UK3CB_BAF_NLAW_Launcher","UK3CB_BAF_Tripod",
+	"UK3CB_BAF_L16_Tripod","UK3CB_BAF_L111A1","UK3CB_BAF_L134A1","UK3CB_BAF_L16","UK3CB_BAF_M6", "UK3CB_BAF_NLAW_Launcher","UK3CB_BAF_Tripod",
 
 	"TFAR_anprc152",
 
