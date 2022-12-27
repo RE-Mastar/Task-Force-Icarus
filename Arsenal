@@ -61,6 +61,14 @@ missionNamespace getVariable "TFI_Arsenals" apply
 	_box = _x;
 	[_box, true, false] call ace_arsenal_fnc_removeVirtualItems;
 	switch (_role) do {
+default {
+	[_box, _genericGear + _riflemanWeaponsAndScopes + [
+
+			
+			
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
 
 case "Sapper": {
 		[_box, _genericGear + _riflemanWeaponsAndScopes + [
