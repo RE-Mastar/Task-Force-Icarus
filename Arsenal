@@ -28,6 +28,7 @@ _genericGear = [
 	"UK3CB_BAF_L16_Tripod","UK3CB_BAF_L111A1","UK3CB_BAF_L134A1","UK3CB_BAF_L16","UK3CB_BAF_M6", "UK3CB_BAF_NLAW_Launcher","UK3CB_BAF_Tripod",
 
 	"TFAR_anprc152",
+	"tsp_frameCharge_mag","tsp_popperCharge_mag","tsp_popperCharge_auto_mag",
 
 	"ItemMap","ItemCompass","ItemWatch","ItemGPS","Binocular","ACE_VectorDay","ACE_Vector","CUP_Vector21Nite","Rangefinder","CUP_SOFLAM","Laserdesignator","Laserdesignator_03","ACE_Altimeter","FIR_PDU",
 
