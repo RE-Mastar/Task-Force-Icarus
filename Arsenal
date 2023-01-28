@@ -4,7 +4,7 @@ _genericGear = [
 	"VSM_Multicam_Crye_Camo",
 	
 
-	"CUP_V_B_Armatus_US_MCam","CUP_V_B_Armatus_BB_US_MCam","CUP_V_B_Armatus_MCam","CUP_V_B_Armatus_BB_MCam","CUP_V_B_LBT_LBV_US_MCam","VSM_FAPC_Operator_Multicam","VSM_CarrierRig_Breacher_Multicam","VSM_LBT6094_breacher_Multicam","VSM_RAV_MG_Multicam","VSM_RAV_operator_Multicam",
+	"CUP_V_B_Armatus_US_MCam","CUP_V_B_Armatus_BB_US_MCam","CUP_V_B_Armatus_MCam","CUP_V_B_Armatus_BB_MCam","CUP_V_B_LBT_LBV_US_MCam","VSM_FAPC_Operator_Multicam","VSM_CarrierRig_Breacher_Multicam","VSM_LBT6094_breacher_Multicam","VSM_RAV_operator_Multicam",
 
 	
 	"VSM_Multicam_carryall","VSM_Multicam_Backpack_Compact","VSM_Multicam_Backpack_Kitbag",
@@ -143,7 +143,7 @@ case "AT": {
 case "Gunner": {
 		[_box, _genericGear + _riflemanWeaponsAndScopes + _machinegunnerWeaponsAndScopes + [
 			 
-			"UK3CB_LSM_B_B_CARRYALL_KHK","optic_tws_mg","UK3CB_BAF_Javelin_CLU"
+			"UK3CB_LSM_B_B_CARRYALL_KHK","optic_tws_mg","UK3CB_BAF_Javelin_CLU","VSM_RAV_MG_Multicam"
 
 		],false] call ace_arsenal_fnc_initBox;
 	};
