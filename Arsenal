@@ -10,7 +10,7 @@ _genericGear = [
 	"VSM_Multicam_carryall","VSM_Multicam_Backpack_Compact","VSM_Multicam_Backpack_Kitbag",
 
 	
-	"VSM_OPS_multicam","VSM_OPS_2_multicam","UK3CB_BAF_H_Mk7_Scrim_C",
+	"VSM_OPS_multicam","VSM_OPS_2_multicam","UK3CB_BAF_H_Mk7_Scrim_C","VSM_Mich2000_2_Multicam","VSM_Mich2000_Multicam",
 
 	
 	"CUP_H_PMC_Cap_EP_Tan","CUP_H_USA_Cap_Mcam_DEF","CUP_H_PMC_Cap_Back_EP_Tan","H_mas_cia_Cap_blk","H_mas_cia_beanie_b","SP_BeanieHat_Black","H_Watchcap_camo","SP_BaseballCap_Green","H_Booniehat_khk_hs","CFP_BoonieHat_Multicam","H_Booniehat_khk","rhs_Booniehat_m81","H_Bandanna_cbr","H_Bandanna_sgg","rhs_Boonehat_m81","VSM_Multicam_Boonie",
@@ -87,7 +87,7 @@ case "Sapper": {
 case "TeamLeader": {
 		[_box, _genericGear + _riflemanWeaponsAndScopes + [
 
-			"ua_radiobag_multicam","ItemcTab","ACE_HuntIR_monitor","ACE_HuntIR_M203","ACRE_PRC117F","TFI_BLACK_BERET","TFI_BLUE_BERET","TFI_BROWN_BERET","TFI_CYAN_BERET","TFI_GREEN_BERET","TFI_GREY_BERET","TFI_MAROON_BERET","TFI_PINE_BERET","TFI_RED_BERET","TFI_TAN_BERET","UK3CB_BAF_Javelin_CLU"
+			"ua_radiobag_multicam","ItemcTab","ACE_HuntIR_monitor","ACE_HuntIR_M203","ACRE_PRC117F","TFI_BLACK_BERET","TFI_BLUE_BERET","TFI_BROWN_BERET","TFI_CYAN_BERET","TFI_GREEN_BERET","TFI_GREY_BERET","TFI_MAROON_BERET","TFI_PINE_BERET","TFI_RED_BERET","TFI_TAN_BERET","UK3CB_BAF_Javelin_CLU","UK3CB_BAF_B_Bergen_MTP_Radio_L_A","UK3CB_BAF_B_Bergen_MTP_Radio_L_B","UK3CB_BAF_B_Bergen_MTP_Radio_H_A","UK3CB_BAF_B_Bergen_MTP_Radio_H_B","UK3CB_B_B_Alice_Radio_Backpack"
 
 		],false] call ace_arsenal_fnc_initBox;
 	};
