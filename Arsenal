@@ -30,12 +30,14 @@ _genericGear = [
 	"rhs_weap_M136","rhs_weap_M136_hedp","rhs_weap_M136_hp","rhs_weap_fim92","rhs_weap_m72a7","rhs_weap_smaw_green","rhs_weap_smaw",
 
 	"UK3CB_BAF_L16_Tripod","UK3CB_BAF_L111A1","UK3CB_BAF_L134A1","UK3CB_BAF_L16","UK3CB_BAF_M6", "UK3CB_BAF_NLAW_Launcher","UK3CB_BAF_Tripod",
+	
+"UK3CB_BAF_1Rnd_60mm_Mo_AB_Shells","UK3CB_BAF_1Rnd_60mm_Mo_Shells","UK3CB_BAF_1Rnd_60mm_Mo_Smoke_Red","UK3CB_BAF_1Rnd_60mm_Mo_Flare_White","UK3CB_BAF_1Rnd_60mm_Mo_WPSmoke_White","UK3CB_BAF_1Rnd_60mm_Mo_Smoke_White",
 
 	"TFAR_anprc152",
 	
 	"tsp_frameCharge_mag","tsp_popperCharge_mag","tsp_popperCharge_auto_mag",
 
-	"ItemMap","ItemCompass","ItemWatch","ItemGPS","Binocular","ACE_VectorDay","ACE_Vector","CUP_Vector21Nite","Rangefinder","CUP_SOFLAM","Laserdesignator","Laserdesignator_03","ACE_Altimeter","FIR_PDU",
+"ItemMap","ItemCompass","ItemWatch","ItemGPS","Binocular","ACE_VectorDay","ACE_Vector","CUP_Vector21Nite","Rangefinder","CUP_SOFLAM","Laserdesignator","Laserdesignator_03","ACE_Altimeter","FIR_PDU",
 
 	"kat_aatKit","ACE_RangeTable_82mm","kat_accuvac","ACE_adenosine","kat_X_AED","ACE_artilleryTable","ACE_ATragMX","Attachable_Helistretcher","kat_AED","ACE_fieldDressing","ACE_elasticBandage","ACE_packingBandage","ACE_quikclot","kat_crossPanel","ACE_bloodIV","ACE_bloodIV_250","ACE_bloodIV_500","ACE_bodyBag","ACE_CableTie","kat_chestSeal","ACE_DefusalKit","ACE_EarPlugs","ACE_EntrenchingTool","ACE_Canteen","KAT_Empty_bloodIV_250","KAT_Empty_bloodIV_500","ACE_Flashlight_MX991","kat_guedel","ItemAndroid","ItemcTabHCam","STY_Item_IP68","ACE_IR_Strobe_Item","kat_larynx","ACE_Kestrel4500","ACE_Flashlight_KSF1","ACE_Clacker","ACE_Flashlight_XL50","ACE_MapTools","ACE_microDAGR","ACE_morphine","ACE_personalAidKit","ACE_plasmaIV","ACE_plasmaIV_250","ACE_plasmaIV_500","kat_Pulseoximeter","ACE_RangeCard","ACE_salineIV","ACE_salineIV_250","ACE_salineIV_500","STY_Item_BL500","ACE_SpareBarrel_Item","ACE_splint","ACE_SpottingScope","kat_stethoscope","vtx_stretcher_item","ACE_surgicalKit","ToolKit","ACE_tourniquet","ACE_wirecutter","ACE_epinephrine","Laserbatteries","kat_IV_16","kat_IO_FAST","kat_naloxone","kat_nitroglycerin","kat_norepinephrine","kat_phenylephrine","kat_TXA","kat_Painkiller","kat_Carbonate","kat_amiodarone","kat_atropine","kat_lidocaine","flf_ifak","kat_EACA","kat_ketamine","kat_fentanyl","kat_nalbuphine","kat_clamp","kat_vacuum","kat_retractor","kat_scalpel","kat_etomidate","kat_lorazepam","kat_flumazenil","kat_plate","ACE_Fortify"
 ];
