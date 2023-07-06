@@ -59,7 +59,7 @@ _marksmanWeaponsAndScopes = [
 
 _leaderEquipment = [
 
-	"GK_117G_slingshot","GK_117G","GK_Y26_Panel_1","asip_a_01_mc","asip_b_01_mc","B_RadioBag_01_black_F","flb_511radio01_mcm","ua_radiobag_multicam"
+	"GK_117G_slingshot","GK_117G","GK_Y26_Panel_1","asip_a_01_mc","asip_b_01_mc","B_RadioBag_01_black_F","flb_511radio01_mcm","ua_radiobag_multicam","ItemcTab"
 ];
 
 
