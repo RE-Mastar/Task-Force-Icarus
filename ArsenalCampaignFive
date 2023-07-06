@@ -95,7 +95,7 @@ case "TeamLeader": {
 case "SectionLeader": {
 		[_box, _genericGear + _riflemanWeaponsAndScopes + _leaderEquipment + [
 
-			"Viking_viking_avs_573","Viking_viking_avs_572","Viking_viking_avs_571","Viking_viking_avs_570","Viking_viking_avs_569","Viking_viking_avs_575","Viking_viking_avs_584","Viking_viking_avs_566","Viking_viking_avs_565","Viking_viking_avs_585","Viking_viking_avs_586"
+			"TFI_BLACK_BERET","TFI_BLUE_BERET","TFI_BROWN_BERET","TFI_CYAN_BERET","TFI_GREEN_BERET","TFI_GREY_BERET","TFI_MAROON_BERET","TFI_PINE_BERET","TFI_RED_BERET","TFI_TAN_BERET","Viking_viking_avs_573","Viking_viking_avs_572","Viking_viking_avs_571","Viking_viking_avs_570","Viking_viking_avs_569","Viking_viking_avs_575","Viking_viking_avs_584","Viking_viking_avs_566","Viking_viking_avs_565","Viking_viking_avs_585","Viking_viking_avs_586"
 
 		],false] call ace_arsenal_fnc_initBox;
 	};
