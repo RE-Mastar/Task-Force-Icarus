@@ -1,4 +1,4 @@
-_genericGear = ["H_LIB_US_Helmet_Cap","ItemMap","ItemCompass","ItemWatch","LIB_Binocular_US","ACE_fieldDressing","ACE_EarPlugs","ACE_Flashlight_MX991","ACE_MapTools","ACE_morphine","fow_i_whistle","ACE_splint","ACE_tourniquet","fow_e_mk2","SmokeShell","U_LIB_US_Cap","LIB_8Rnd_762x63","LIB_7Rnd_45ACP","SmokeShellRed","SmokeShellGreen","SmokeShellBlue","ACE_HandFlare_Green","V_LIB_US_Vest_Carbine_nco","LIB_M1_Garand","LIB_Colt_M1911","LIB_ACC_M1_Bayo","H_LIB_US_Helmet_Second_lieutenant","U_LIB_US_Off","LIB_30Rnd_45ACP","V_LIB_US_Vest_Thompson_nco","LIB_M1A1_Thompson","H_LIB_US_Helmet","LIB_20Rnd_762x63","B_LIB_US_Backpack","U_LIB_US_Private_1st","V_LIB_US_Vest_Bar","LIB_M1918A2_BAR","U_LIB_US_Private","V_LIB_US_Vest_Garand","H_LIB_US_Helmet_Net","B_LIB_US_Bandoleer","LIB_1Rnd_G_M9A1","LIB_1Rnd_G_Mk2","V_LIB_US_Vest_Grenadier","LIB_M1_Garand_M7","LIB_ACC_GL_M7","H_LIB_US_Helmet_Med","ACE_packingBandage","kat_IV_16","ACE_epinephrine","kat_IO_FAST","kat_guedel","kat_naloxone","kat_scalpel","ACE_surgicalKit","ACE_bloodIV","ACE_bloodIV_500","ACE_bloodIV_250","kat_larynx","B_LIB_US_MedicBackpack","U_LIB_US_Med","V_LIB_US_Vest_Medic","LIB_1Rnd_60mm_M6","B_LIB_US_Backpack_RocketBag_Empty","LIB_M1A1_Bazooka","LIB_Ladung_Big_MINE_mag","LIB_US_TNT_4pound_mag","LIB_Ladung_Small_MINE_mag","ACE_Clacker","ace_marker_flags_blue","ace_marker_flags_purple","SmokeShellPurple"];
+_genericGear = [“H_LIB_US_Helmet_Cap”,“ItemMap”,“ItemCompass”,“ItemWatch”,“LIB_Binocular_US”,“ACE_fieldDressing”,“ACE_EarPlugs”,“ACE_Flashlight_MX991”,“ACE_MapTools”,“ACE_morphine”,“fow_i_whistle”,“ACE_splint”,“ACE_tourniquet”,"fow_e_m,“LIB_8Rnd_762x63”,“LIB_7Rnd_45ACP”,“ACE_HandFlare_Green”,“LIB_M1_Garand”,“LIB_Colt_M1911”,“LIB_ACC_M1_Bayo”,“H_LIB_US_Helmet”,“B_LIB_US_Backpack”,“U_LIB_US_Private”,“V_LIB_US_Vest_Garand”,“H_LIB_US_Helmet_Net”,“B_LIB_US_Bandoleer”,“ace_marker_flags_blue”,“ace_marker_flags_purple”];
 
 
 
@@ -13,35 +13,59 @@ default {
 			
 		],false] call ace_arsenal_fnc_initBox;
 	};
-
-case "TeamLeader": {
+		case "Rifleman": {
 		[_box, _genericGear + [
 
 
 		],false] call ace_arsenal_fnc_initBox;
 	};
+		case "Grenadier": {
+				[_box, _genericGear + [
+				"V_LIB_US_Vest_Grenadier","LIB_1Rnd_G_M9A1","LIB_1Rnd_G_Mk2","lib_acc_gl_m7"
 
-case "AT": {
-		[_box, _genericGear + [
-			 
+				],false] call ace_arsenal_fnc_initBox;
+			};
+		case "Medic": {
+				[_box, _genericGear + [
+				"H_LIB_US_Helmet_Med","U_LIB_US_Med","V_LIB_US_Vest_Medic","B_LIB_US_MedicBackpack","ACE_surgicalKit","kat_scalpel","kat_larynx","kat_IO_FAST","ACE_bloodIV_500","ACE_bloodIV_250","ACE_bloodIV","kat_IV_16"
 
-		],false] call ace_arsenal_fnc_initBox;
-	};
+				],false] call ace_arsenal_fnc_initBox;
+			};
+		case "AT Rifleman": {
+				[_box, _genericGear + [
+				"LIB_M1A1_Bazooka","LIB_1Rnd_60mm_M6"
 
-case "Gunner": {
-		[_box, _genericGear + [
-			 
+
+				],false] call ace_arsenal_fnc_initBox;
+			};
+		case "AutoRifleman (BAR)": {
+				[_box, _genericGear + [
+				"LIB_M1918A2_BAR","U_LIB_US_Private_1st","V_LIB_US_Vest_Bar","V_LIB_US_Vest_Thompson_nco","LIB_20Rnd_762x63"		
+
+				],false] call ace_arsenal_fnc_initBox;
+			};
+		case "Assist AutoRifleman": {
+				[_box, _genericGear + [
+				"LIB_20Rnd_762x63"
+
+	
+				],false] call ace_arsenal_fnc_initBox;
+			};
+		case "Demolitions": {
+				[_box, _genericGear + [
+				"ACE_Clacker","LIB_Ladung_Small_MINE_mag","LIB_Ladung_Big_MINE_mag","LIB_US_TNT_4pound_mag"
 
 
-		],false] call ace_arsenal_fnc_initBox;
-	};
+				],false] call ace_arsenal_fnc_initBox;
+			};
+		case "Squad Leaders": {
+				[_box, _genericGear + [
+				"LIB_M1A1_Thompson","H_LIB_US_Helmet_Second_lieutenant","H_LIB_US_Helmet_Cap","U_LIB_US_Cap","U_LIB_US_Off","V_LIB_US_Vest_Carbine_nco"
 
-case "Medic": {
-		[_box, _genericGear + [
-			 
-			
 
-		],false] call ace_arsenal_fnc_initBox;
-	};
+				],false] call ace_arsenal_fnc_initBox;
+		};
+
+
     };
 };
