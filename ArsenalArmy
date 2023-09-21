@@ -36,14 +36,6 @@ case "Gunner": {
 		],false] call ace_arsenal_fnc_initBox;
 	};
 
-case "Gunner": {
-		[_box, _genericGear + [
-			 
-
-
-		],false] call ace_arsenal_fnc_initBox;
-	};
-
 case "Medic": {
 		[_box, _genericGear + [
 			 
