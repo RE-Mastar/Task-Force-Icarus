@@ -60,7 +60,7 @@ default {
 			};
 		case "Squad Leaders": {
 				[_box, _genericGear + [
-				"LIB_M1A1_Thompson","H_LIB_US_Helmet_Second_lieutenant","H_LIB_US_Helmet_Cap","U_LIB_US_Cap","U_LIB_US_Off","V_LIB_US_Vest_Carbine_nco"
+				"LIB_M1A1_Thompson","H_LIB_US_Helmet_Second_lieutenant","H_LIB_US_Helmet_Cap","U_LIB_US_Cap","U_LIB_US_Off","V_LIB_US_Vest_Carbine_nco","B_LIB_US_Radio"
 
 
 				],false] call ace_arsenal_fnc_initBox;
