@@ -58,7 +58,7 @@ default {
 			};
 		case "Squad Leaders": {
 				[_box, _genericGear + [
-				"LIB_M1A1_Thompson","U_LIB_US_Cap","U_LIB_US_Off","H_LIB_US_AB_Helmet_NCO_1","U_LIB_US_AB_Uniform_M42_NCO","V_LIB_US_AB_Vest_Carbine_nco","V_LIB_US_AB_Vest_Thompson_nco","V_LIB_US_AB_Vest_Thompson",
+				"LIB_M1A1_Thompson","U_LIB_US_Cap","U_LIB_US_Off","H_LIB_US_AB_Helmet_NCO_1","U_LIB_US_AB_Uniform_M42_NCO","V_LIB_US_AB_Vest_Carbine_nco","V_LIB_US_AB_Vest_Thompson_nco","V_LIB_US_AB_Vest_Thompson"
 
 
 				],false] call ace_arsenal_fnc_initBox;
