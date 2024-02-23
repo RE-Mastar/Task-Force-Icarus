@@ -104,7 +104,9 @@ case "JTAC": {
 		[_box, _genericGear + _riflemanWeaponsAndScopes + [
 			
 			"ACRE_PRC117F",
-			"ua_radiobag_multicam"
+			"ua_radiobag_multicam",
+			"Viking_viking_avs_570",
+			"asip_a_01_mc"
 
 		],false] call ace_arsenal_fnc_initBox;
 	};
