@@ -13,7 +13,9 @@ _genericGear = [
 	
 	"ACE_Vector","CUP_SOFLAM","Laserdesignator_03",
 	
-	"ItemMap","ItemGPS","TFAR_anprc152","ItemCompass","ItemWatch","ACE_Altimeter"
+	"ItemMap","ItemGPS","TFAR_anprc152","ItemCompass","ItemWatch","ACE_Altimeter",
+
+	"SmokeShell"
 
 
 
