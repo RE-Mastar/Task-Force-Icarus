@@ -157,7 +157,7 @@ case "Marksman": {
 case "Gunner": {
 		[_box, _genericGear + _genericWeapons + _genericAmmo + _genericAttachmentsAndScopes + _genericItems + _gunnerAmmo + [
 			 
-			"TACDEVRON_3DAP","optic_tws_mg","Viking_viking_avs_578","Pike_MiniMissileUGL"
+			"TACDEVRON_3DAP","optic_tws_mg","Viking_viking_avs_578","Pike_MiniMissileUGL","75th_ranger_mk48", "CUP_lmg_M240_norail", "CUP_lmg_M240_B", "rhs_weap_m240B", "rhs_weap_m240G", "CUP_lmg_M240", "rhs_weap_m249", "CUP_lmg_m249_SQuantoon", "LMG_mas_cia_03C_F", "rhs_weap_m249_light_L", "rhs_weap_m249_pip_L", "rhs_weap_m249_pip_ris", "CUP_lmg_M249_E1", "CUP_lmg_M249_E2", "CUP_lmg_m249_pip2", "CUP_lmg_Mk48", "CUP_lmg_Mk48_des", "CUP_lmg_Mk48_tan", "CUP_lmg_Mk48_nohg_tan", "CUP_lmg_Mk48_nohg", "CUP_arifle_XM8_SAW", "CUP_arifle_XM8_SAW_FG_OD", "CUP_arifle_XM8_SAW_FG_Rail_Shark", "Tier1_M249_light_S_Desert", "Tier1_MK46_Mod0_Desert", "Tier1_MK46_Mod0_Para", "Tier1_MK46_Mod1_Desert", "Tier1_MK46_Mod1_Savit", "Tier1_MK48_Mod0_Para_Desert", "Tier1_MK48_Mod1", "Tier1_MK48_Mod1_Desert","75th_LAMG_1"
 
 		],false] call ace_arsenal_fnc_initBox;
 	};
