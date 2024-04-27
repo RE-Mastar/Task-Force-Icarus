@@ -90,7 +90,7 @@ if (_varient == "B") then
 		
 		_gunnerItemsB = [
 		"turban_b_1_5", "turban_b_1_4", "turban_b_1_1", "turban_1_4", "turban_1_1", "kufiya_1", "kufiya_2", "kufiya_3", "headwrap_b_2_3", "headwrap_b_2_2", "headwrap_b_2_2", "headwrap_2_2", "headwrap_2", "headwrap_4", "JMSSA_arab_turban_khaki", "JMSSA_arab_turban_black", "JMSSA_arab_scarfFace_brown", "GXTS_QAMIS_CAG_GOON_WAWA_RS_base", "GXTS_QAMIS_CAG_GOON_WAWA_FS_base"];
-	}
+	};
 
 
 missionNamespace getVariable "TFI_Arsenals" apply 
