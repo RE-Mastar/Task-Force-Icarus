@@ -80,7 +80,7 @@ _genericItemsB = [];
 _marksmenItemsB = [];
 _gunnerItemsB = [];
 
-if (_varient == "B") then 
+if (_variant == "B") then 
 	{
 		systemChat "Final Process Ran!";
 		_genericItems append [
