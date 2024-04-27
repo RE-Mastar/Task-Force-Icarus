@@ -109,9 +109,9 @@ if (_variant == "B") then
 		
 		];
 		
-		hint format["%1", _marksmanItemsB]
+		
 	};
-
+hint format["%1", _marksmanItemsB]
 
 missionNamespace getVariable "TFI_Arsenals" apply 
 { 
