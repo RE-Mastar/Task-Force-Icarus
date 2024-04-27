@@ -77,7 +77,7 @@ _gunnerAmmo = [
 ];
 
 _genericItemsB = [];
-_marksmenItemsB = [];
+_marksmanItemsB = [];
 _gunnerItemsB = [];
 
 if (_variant == "B") then 
