@@ -28,7 +28,9 @@ _genericWeapons = [
 	
 	"75th_Ranger_G19", "75th_Ranger_G19_KKM", "CUP_hgun_Glock17", "CUP_hgun_Glock17_blk", "CUP_hgun_Glock17_tan", "acwp_glock17_black", "acwp_glock19_black", "ACWP_USP", "ACWP_USP_TAN", "ACWP_USP_TBRK", "CUP_hgun_M17_Black", "CUP_hgun_M17_Coyote", "CUP_hgun_M17_Green", "CUP_hgun_Colt1911", "rhsusf_weap_m1911a1", "rhs_weap_M320", "CUP_hgun_M9", "CUP_hgun_M9A1", "ACE_Flashlight_Maglite_ML300L", "CUP_hgun_Mk23", "CUP_hgun_P30L_blk", "CUP_hgun_P30L_Match_blk", "UK3CB_P320_DES",
 	
-	"rhs_weap_M136","rhs_weap_M136_hp","rhs_weap_smaw","rhs_weap_M136_hedp","rhs_weap_m72a7","rhs_weap_fim92","CUP_SMAW_HEAA_M","rhs_mag_smaw_HEAA","CUP_SMAW_Spotting","CUP_SMAW_HEDP_M","rhs_fim92_mag","rhs_mag_smaw_SR","CUP_SMAW_NE_M","rhs_mag_smaw_HEDP","rhs_weap_optic_smaw","rhs_m72a7_mag"
+	"rhs_weap_M136","rhs_weap_M136_hp",
+	"CUP_launch_MAAWS","CUP_optic_MAAWS_Scope","rhs_mag_maaws_HE", "CUP_MAAWS_HEDP_M", "CUP_MAAWS_HEAT_M", "MRAWS_HE_F", "MRAWS_HEAT55_F", "MRAWS_HEAT_F",
+	"rhs_weap_M136_hedp","rhs_weap_m72a7","rhs_weap_fim92","CUP_SMAW_HEAA_M","rhs_mag_smaw_HEAA","CUP_SMAW_Spotting","CUP_SMAW_HEDP_M","rhs_fim92_mag","rhs_mag_smaw_SR","CUP_SMAW_NE_M","rhs_mag_smaw_HEDP","rhs_weap_optic_smaw","rhs_m72a7_mag"
 	
 ];
 
